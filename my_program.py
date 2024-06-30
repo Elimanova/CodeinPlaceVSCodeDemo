@@ -1,4 +1,4 @@
-MAX_NUMBER = 50
+MAX_NUMBER = 42
 
 def even_function():
     for i in range(MAX_NUMBER):
